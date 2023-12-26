@@ -36,7 +36,6 @@ class BodyCondition {
             performDoingYoga()
         case .dynamicRest:
             performDynamicRest()
-        
         }
     }
     
